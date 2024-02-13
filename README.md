@@ -26,16 +26,16 @@ The University Graduation and Examination Application System is a web-based appl
 ## Technologies Used
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Python, Django Framework
-- **Database**: PostgreSQL
-- **Authentication**: Django Authentication System
+- **Backend**: PHP, Laravel Framework
+- **Database**: MySQL
+- **Authentication**: Laravel Authentication System
 - **Deployment**: Docker, AWS (Amazon Web Services)
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/Lindah-K/graduation_application.git
 
 
 Install dependencies:
